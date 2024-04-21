@@ -1,6 +1,6 @@
 cd /app
 
-source parameters/params
+source /parameters/params
 export DOCUMENTDB=true
 
 node server.js
